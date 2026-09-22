@@ -1,0 +1,16 @@
+{
+  "PLACAS_DE_VIDEO": "Placas de vídeo e GPUs Nvidia GeForce (RTX 3000, 4000, etc.) ou AMD Radeon",
+  "PROCESSADORES": "Processadores e CPUs AMD Ryzen ou Intel Core para desktop ou servidores",
+  "MEMORIA_E_SSD": "Armazenamento SSD NVMe, SSD SATA e pentes de memória RAM DDR4 ou DDR5",
+  "MONITORES": "Monitores gamer, monitores ultrawide, telas com alta taxa de atualização (144Hz+)",
+  "PERIFERICOS": "Mouses, teclados mecânicos, headsets gamer, mousepads e microfones",
+  "NOTEBOOKS": "Notebooks gamer, MacBooks, laptops ultrafinos ou computadores portáteis",
+  "SMARTPHONES": "Celulares e smartphones (Apple iPhone, Samsung Galaxy, Xiaomi, Motorola)",
+  "CONSOLES_E_GAMES": "Consoles PlayStation (PS5), Xbox, Nintendo Switch, jogos e assinaturas de games",
+  "FONES_E_AUDIO": "Fones de ouvido Bluetooth TWS, fones com cancelamento de ruído e caixas de som",
+  "CASA_INTELIGENTE": "Dispositivos Alexa/Echo, lâmpadas inteligentes, robôs aspiradores e tomadas smart",
+  "ERRO_DE_PRECO_BUG": "Bugs de preço, promoções com descontos absurdos ou preços historicamente baixos",
+  "CUPOM_DESCONTO": "Mensagens compartilhando códigos de cupons de lojas (Amazon, Mercado Livre, Shopee, etc.)",
+  "DUVIDA_OU_DISCUSSAO": "Membros tirando dúvidas sobre produtos, pedindo recomendações ou conversando no grupo",
+  "OUTROS": "Eletrodomésticos, roupas, itens de mercado ou qualquer mensagem que não se encaixe nas opções acima"
+}

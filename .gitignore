@@ -1,0 +1,26 @@
+# Ambientes virtuais e dependências
+.venv/
+env/
+venv/
+
+# Caches do Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# Credenciais e Sessões do Telegram (NUNCA COMITAR)
+.env
+*.session
+*.session-journal
+
+# Logs
+app.log
+*.log
+
+# IDE e editores
+.vscode/
+.idea/
+*.swp
