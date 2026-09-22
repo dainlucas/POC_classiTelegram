@@ -82,8 +82,13 @@ Para alterar ou criar novas categorias, edite o arquivo com a chave desejada e a
   "PROCESSADORES": "Processadores e CPUs AMD Ryzen ou Intel Core",
   "SMARTPHONES": "Celulares e smartphones Apple, Samsung, Xiaomi ou Motorola",
   "CUPOM_DESCONTO": "Codigos de cupom de lojas como Mercado Livre, Shopee ou Amazon",
+
   "OUTROS": "Mensagens que nao se enquadram nas categorias acima"
 }
 ```
+
+## Demo
+<img width="1600" height="900" alt="939932c2-cb88-4a7c-b2fc-9bfbe5c3797c" src="https://github.com/user-attachments/assets/36fbcd6a-b14b-4902-8f6a-4201eed3ca21" />
+
 
 O classificador utiliza esses criterios diretamente na tomada de decisao.
